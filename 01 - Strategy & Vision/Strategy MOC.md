@@ -1,25 +1,24 @@
 ---
 title: "📈 Strategy & Vision MOC"
 type: moc
+branch: 01 - Strategy & Vision
 ---
 
 # 📈 Strategy & Vision MOC
 
-## 🎯 Strategic Foundation
-- [[Product Vision]] - Definition, components, and long-term alignment.
-- [[Product Strategy]] - Market entry, differentiation, and horizontal vs. vertical paths.
-- [[North Star Metric]] - Capturing core value (e.g., Spotify's "Time spent listening").
+## 🎯 Foundation
+- [[01 - Strategy & Vision/Product Vision]] — long-term aspirational direction
+- [[01 - Strategy & Vision/Product Strategy]] — the plan to achieve the vision
+- [[01 - Strategy & Vision/North Star Metric]] — single metric capturing core value
 
-## 📊 Execution Alignment
-- [[OKRs]] - Objectives and Key Results for outcome-based teams.
-- [[Business Models]] - Revenue streams, unit economics (LTV/CAC), and usage-based pricing.
+## 📊 Alignment
+- [[01 - Strategy & Vision/OKRs]] — objectives and key results
+- [[01 - Strategy & Vision/Business Models]] — revenue streams and unit economics
 
-## 🏹 Competitive Intelligence
-- [[Competitive Landscape]] - Moats, network effects, and Porter's Five Forces.
-- [[Market Sizing]] - TAM / SAM / SOM and bottom-up sizing.
-- [[GTM for AI Products]] - Positioning outcomes over technology.
-
----
+## 🏹 Market Intelligence
+- [[01 - Strategy & Vision/Competitive Landscape]] — moats and Porter's Five Forces
+- [[01 - Strategy & Vision/Market Sizing]] — TAM / SAM / SOM
+- [[01 - Strategy & Vision/GTM for AI Products]] — outcome framing and trust-building
 
 > [!NOTE]
-> **Example Strategy:** Notion started vertical (notes) then expanded horizontal (databases/wikis)—this strategic choice shaped their entire roadmap sequencing.
+> Strategy informs every other branch. Start here before touching the roadmap.

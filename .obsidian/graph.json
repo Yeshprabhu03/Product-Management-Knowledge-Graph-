@@ -6,7 +6,113 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"01 - Strategy & Vision\"",
+      "color": {
+        "a": 1,
+        "rgb": 14370867
+      }
+    },
+    {
+      "query": "path:\"02 - Research & Discovery\"",
+      "color": {
+        "a": 1,
+        "rgb": 16744272
+      }
+    },
+    {
+      "query": "path:\"03 - AI & ML Fundamentals\"",
+      "color": {
+        "a": 1,
+        "rgb": 16632664
+      }
+    },
+    {
+      "query": "path:\"04 - Data Strategy\"",
+      "color": {
+        "a": 1,
+        "rgb": 4412249
+      }
+    },
+    {
+      "query": "path:\"05 - Prioritization & Roadmapping\"",
+      "color": {
+        "a": 1,
+        "rgb": 4089717
+      }
+    },
+    {
+      "query": "path:\"06 - Execution & Delivery\"",
+      "color": {
+        "a": 1,
+        "rgb": 9699539
+      }
+    },
+    {
+      "query": "path:\"07 - Metrics & Analytics\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711807
+      }
+    },
+    {
+      "query": "path:\"08 - Responsible AI\"",
+      "color": {
+        "a": 1,
+        "rgb": 8421504
+      }
+    },
+    {
+      "query": "path:\"09 - AI UX Patterns\"",
+      "color": {
+        "a": 1,
+        "rgb": 2895294
+      }
+    },
+    {
+      "query": "path:\"10 - GTM & Growth\"",
+      "color": {
+        "a": 1,
+        "rgb": 1559170
+      }
+    },
+    {
+      "query": "path:\"11 - Technical PM\"",
+      "color": {
+        "a": 1,
+        "rgb": 10824234
+      }
+    },
+    {
+      "query": "path:\"12 - Leadership & Stakeholders\"",
+      "color": {
+        "a": 1,
+        "rgb": 4915330
+      }
+    },
+    {
+      "query": "path:\"13 - Frameworks & Models\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711782
+      }
+    },
+    {
+      "query": "path:\"14 - Tools & Artifacts\"",
+      "color": {
+        "a": 1,
+        "rgb": 16747520
+      }
+    },
+    {
+      "query": "path:\"15 - Career\"",
+      "color": {
+        "a": 1,
+        "rgb": 8716543
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +123,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 0.5608490472951205,
   "close": true
 }

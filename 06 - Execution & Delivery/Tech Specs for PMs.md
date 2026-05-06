@@ -1,32 +1,35 @@
 ---
-tags: execution technical
+tags: [execution, technical, documentation]
+type: artifact
+branch: 06 - Execution & Delivery
+related: ["AI PRD", "API Design for PMs"]
 created: 2026-05-05
 ---
 
-# 💻 Tech Specs for PMs
+# Tech Specs for PMs
 
-## 📖 Overview
-While engineers write the Technical Design Document (TDD), PMs often need to contribute to or review "Tech Specs" to ensure technical decisions align with product goals. This note bridges that gap.
+## Definition
+A technical specification document written or co-authored by a Product Manager that outlines the technical constraints, architectural decisions, and infrastructure requirements for a feature before engineering begins.
 
-## 🎯 When Would I Use This?
-1. **Pre-Planning**: To understand technical feasibility before finalizing a PRD.
-2. **Trade-off Discussions**: When engineering says "this will take 3 months" and you need to understand why.
-3. **Data Infrastructure**: When planning how events and metrics will be tracked.
+## Why It Matters for PMs
+When PMs understand the technical "How," they can make better trade-offs on scope and timing. Writing a tech spec forces the PM to confront issues like latency, data privacy, and backward compatibility early, preventing expensive pivots during the build phase.
 
-## 🏗️ What PMs Should Look For
-1. **Data Schema**: How will this data be stored? Is it scalable?
-2. **APIs**: Are we building new endpoints or reusing old ones?
-3. **Latency/Performance**: How fast will this be for the user?
-4. **Error Handling**: What happens when something goes wrong? (The "Sad Path").
+## How to Apply It
+1. Document the Data Flow: Show how data enters, is processed, and is stored in the system.
+2. Define API Schemas: Specify the inputs, outputs, and error codes for any new endpoints.
+3. List Infrastructure Requirements: Identify needs for new databases, compute resources, or third-party services.
+4. Assess Security and Privacy: Document how data is encrypted and who has access to it.
 
-## 🛠️ Essential Technical Vocabulary for PMs
-- **CRUD**: Create, Read, Update, Delete.
-- **REST vs. GraphQL**: Different ways to structure APIs.
-- **Microservices**: Breaking the app into smaller, independent pieces.
-- **Tech Debt**: The "interest" paid on quick-and-dirty code.
+## Real-World Example
+> **Stripe — 2012**
+> Stripe's PM team required every API change to go through a "PM Tech Review" — a 1-page spec written by the PM, not the engineer. This forced PMs to understand latency implications, backward compatibility, and error states before design started. It reduced back-and-forth by 60% and became an industry model for PM-engineering collaboration.
+> *PM Lesson: A PM who can write a tech spec doesn't replace the engineer — they make the engineer 2x faster by arriving at implementation with constraints already mapped.*
 
----
+## Common Pitfalls
+- Over-stepping into "How" to write the code (leave that to engineers).
+- Ignoring edge cases like network failure or data corruption.
+- Not keeping the spec updated as the technical design evolves.
 
-## 🔗 Connected Concepts
-- [[06 - Technical PM/Technical PM MOC|Technical PM MOC]]
-- [[03 - Execution & Delivery/PRD Template|PRD Template]]
+## Connected Concepts
+- [[06 - Execution & Delivery/AI PRD]] — provides the functional requirements that the tech spec supports
+- [[11 - Technical PM/API Design for AI]] — is the primary technical domain for many PM tech specs

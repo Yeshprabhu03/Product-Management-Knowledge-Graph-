@@ -1,30 +1,35 @@
 ---
-tags: execution
+tags: [execution, ux, discovery]
+type: pattern
+branch: 06 - Execution & Delivery
+related: ["AI PRD", "Research MOC"]
 created: 2026-05-05
 ---
 
-# 🗺️ User Story Mapping
+# User Story Mapping
 
-## 📖 Overview
-User Story Mapping is a collaborative exercise that helps product teams visualize the user journey and organize the backlog into a coherent structure. It was popularized by Jeff Patton.
+## Definition
+A visual exercise that organizes user stories into a coherent journey. The "Backbone" represents the high-level user steps, and the "Ribs" are the specific stories or features that support each step, prioritized by release.
 
-## 🎯 When Would I Use This?
-1. **MVP Scoping**: To decide what goes into the first release vs. future iterations.
-2. **Initial Planning**: When starting a major new feature or product.
-3. **Team Alignment**: To ensure engineers, designers, and PMs are all looking at the same "big picture."
+## Why It Matters for PMs
+It provides a "Big Picture" view that standard flat backlogs lack. It helps PMs identify gaps in the user journey, ensure that an MVP provides a complete end-to-end experience, and prioritize work based on the user's flow rather than technical convenience.
 
-## 🏗️ How to Apply It
-1. **Identify Users**: Who is using this?
-2. **The Backbone**: Map the high-level steps of the user's journey (Activities).
-3. **The Ribs**: Under each activity, list the specific tasks (User Stories) required to complete it.
-4. **Slice for Releases**: Draw horizontal lines to group stories into releases (MVP, V2, etc.).
+## How to Apply It
+1. Map the User Journey: List the high-level steps a user takes to achieve their goal.
+2. Brainstorm Stories: For each step, list all the potential features or actions.
+3. Prioritize by Release: Draw a "Line in the Sand" for what is in the MVP vs. Version 2.
+4. Validate the Flow: Walk through the map to ensure there are no missing steps or "Dead Ends."
 
-## ⚠️ Common Pitfalls
-- **Getting Lost in Detail**: Don't write full acceptance criteria during mapping; keep it high-level.
-- **Ignoring the Journey**: Mapping features in isolation rather than following the user's flow.
+## Real-World Example
+> **Spotify — 2014**
+> Before rebuilding their mobile app, Spotify's PM team ran a 2-day story mapping workshop. They mapped every user action from "open app" to "listen to full song." This revealed that users had to take 7 steps to play a song — the story map made this visible in a way no PRD could. The redesign cut it to 2 steps, driving a 15% increase in session start rate.
+> *PM Lesson: Story maps expose journey friction that user stories alone miss because stories describe features, not sequences.*
 
----
+## Common Pitfalls
+- Focusing too much on the "Happy Path" and ignoring edge cases.
+- Making the map too complex with hundreds of tiny stories.
+- Not using the map as a "Living Document" during the actual build.
 
-## 🔗 Connected Concepts
-- [[03 - Execution & Delivery/PRD Template|PRD Template]]
-- [[08 - Frameworks & Models/RICE Prioritization|RICE Prioritization]]
+## Connected Concepts
+- [[06 - Execution & Delivery/AI PRD]] — provides the requirements that are mapped in the exercise
+- [[02 - Research & Discovery/Research MOC]] — provides the user insights needed to map the journey accurately

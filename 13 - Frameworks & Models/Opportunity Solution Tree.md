@@ -1,31 +1,35 @@
 ---
-tags: framework
-type: discovery
+tags: [framework, discovery, research]
+type: framework
+branch: 13 - Frameworks & Models
+related: ["North Star Framework", "Research MOC"]
 created: 2026-05-05
 ---
 
-# 🛠️ Opportunity Solution Tree (OST)
+# Opportunity Solution Tree
 
-## 📖 Definition
-The OST is a visual aid developed by Teresa Torres to help product teams navigate the complex path from a desired business outcome to the actual experiments and solutions that might achieve it.
+## Definition
+A visual tool developed by Teresa Torres that helps product teams map out the path from a desired Outcome to the potential Opportunities (user needs/pains), Solutions, and Experiments.
 
-## 🎯 When Would I Use This?
-1. **Continuous Discovery**: When you need to maintain a constant stream of user insights and map them to outcomes.
-2. **Stakeholder Communication**: To show *why* certain features are being tested and how they relate to the "North Star."
-3. **Brainstorming**: To move beyond just "listing ideas" and start "mapping opportunities."
+## Why It Matters for PMs
+It prevents "Solution-First" thinking, where teams build features without understanding the problem. It allows PMs to manage multiple hypotheses at once and provides a transparent way to show stakeholders why certain solutions are being tested over others.
 
-## 🏗️ How to Apply It
-1. **Desired Outcome**: Start at the top with a clear, measurable metric (e.g., Increase retention by 10%).
-2. **Opportunities**: Branch out into customer needs, pains, and desires (The "Why").
-3. **Solutions**: Branch out from each opportunity into potential features or fixes.
-4. **Assumptions/Experiments**: Branch out from solutions into specific tests.
+## How to Apply It
+1. Start with the Outcome: Define a clear, measurable goal (e.g., "Increase Retention by 10%").
+2. Map Opportunities: Identify user needs, pain points, and desires that lead to that outcome.
+3. Ideate Solutions: For each opportunity, brainstorm multiple potential features or changes.
+4. Design Experiments: For the most promising solutions, create small tests to validate the assumptions.
 
-## ⚠️ Common Pitfalls
-- **Missing the Outcome**: Starting with a feature (Solution) and trying to justify it backwards.
-- **Too Shallow**: Not digging deep enough into the "Opportunities" (The customer's underlying problem).
+## Real-World Example
+> **Continuous Discovery at Spotify — 2020**
+> Spotify's discovery team used OST to map the outcome "Increase podcast listener retention." Opportunities surfaced: users couldn't remember where they left off, users didn't know which episodes to start with. Solutions branched from each. The "Chapters" feature (episode timestamps) was an experiment under the second opportunity — validated in 3 weeks before full build.
+> *PM Lesson: OST prevents the team from jumping to solutions. It forces you to validate the opportunity before writing a single line of code.*
 
----
+## Common Pitfalls
+- Starting with a "Solution" and trying to find an outcome to justify it.
+- Letting the tree get too complex with hundreds of small opportunities.
+- Not running actual "Experiments" and instead just building the first solution that looks good.
 
-## 🔗 Connected Concepts
-- [[08 - Frameworks & Models/North Star Framework|North Star Framework]]
-- [[02 - Discovery & Research/Discovery MOC|Discovery MOC]]
+## Connected Concepts
+- [[13 - Frameworks & Models/North Star Framework]] — provides the "Outcome" at the top of the tree
+- [[02 - Research & Discovery/Research MOC]] — provides the user insights used to map opportunities

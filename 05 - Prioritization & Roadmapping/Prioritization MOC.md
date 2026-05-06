@@ -1,23 +1,22 @@
 ---
 title: "🎯 Prioritization & Roadmapping MOC"
 type: moc
+branch: 05 - Prioritization & Roadmapping
 ---
 
 # 🎯 Prioritization & Roadmapping MOC
 
-## 🛠️ Frameworks
-- [[RICE Prioritization]] - Reach, Impact, Confidence, Effort.
-- [[Kano Model]] - Must-haves, Delighters, and Indifferent features.
-- [[MoSCoW]] - Must, Should, Could, Won't have.
-- [[Value vs. Complexity]] - Balancing high impact with development cost.
+## 🛠️ Scoring Frameworks
+- [[13 - Frameworks & Models/RICE Prioritization]] — reach × impact × confidence / effort
+- [[13 - Frameworks & Models/Kano Model]] — must-haves, delighters, indifferent
+- [[05 - Prioritization & Roadmapping/MoSCoW]] — must, should, could, won't
+- [[05 - Prioritization & Roadmapping/Value vs Complexity]] — quick wins vs strategic bets
 
-## 🗺️ Planning & Strategy
-- [[Product Roadmap]] - Outcome-based vs. feature-based planning.
-- [[AI-Specific Prioritization]] - Feasibility, data cold starts, and accuracy thresholds.
-- [[Dependency Mapping]] - Technical and data dependencies.
-- [[Trade-off Frameworks]] - Speed vs. Quality vs. Cost.
-
----
+## 🗺️ Planning
+- [[05 - Prioritization & Roadmapping/Product Roadmap]] — outcome-based, now/next/later
+- [[05 - Prioritization & Roadmapping/Dependency Mapping]] — technical and data deps
+- [[05 - Prioritization & Roadmapping/Trade-off Frameworks]] — speed vs quality vs cost
+- [[05 - Prioritization & Roadmapping/AI-Specific Prioritization]] — feasibility, cold start
 
 > [!TIP]
-> A PM at a legal tech startup deprioritized 85% accurate extraction (too risky) and instead prioritized 100% accurate clause highlighting (lower stakes).
+> Prioritization is not a one-time event. Re-run scoring every quarter.

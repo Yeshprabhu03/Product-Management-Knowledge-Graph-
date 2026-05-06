@@ -1,24 +1,23 @@
 ---
 title: "📊 Data Strategy MOC"
 type: moc
+branch: 04 - Data Strategy
 ---
 
 # 📊 Data Strategy MOC
 
-## 🏗️ Data Architecture
-- [[Data as a Product Asset]] - Network effects and data moats.
-- [[Data Pipelines]] - ETL, Feature stores, and real-time vs. batch processing.
-- [[Data Quality]] - Garbage in, garbage out; validation and outlier detection.
+## 🏗️ Architecture
+- [[04 - Data Strategy/Data as a Product Asset]] — data moats and network effects
+- [[04 - Data Strategy/Data Pipelines]] — ETL, feature stores, training-serving skew
+- [[04 - Data Strategy/Data Quality]] — completeness, accuracy, timeliness
 
-## 🏷️ Collection & Labeling
-- [[Data Collection & Labeling]] - Implicit (clicks) vs. explicit (ratings) signals.
-- [[Feedback Loops]] - Closing the loop with user corrections.
+## 🏷️ Collection & Learning
+- [[04 - Data Strategy/Data Collection & Labeling]] — implicit vs explicit signals
+- [[04 - Data Strategy/Feedback Loops]] — closing the loop for continuous improvement
 
-## 🛡️ Trust & Compliance
-- [[Privacy & Compliance]] - GDPR, PII, and on-device processing.
-- [[Differential Privacy]] - Privacy-preserving machine learning.
-
----
+## 🛡️ Privacy & Compliance
+- [[04 - Data Strategy/Privacy & Compliance]] — GDPR, CCPA, PII handling
+- [[04 - Data Strategy/Differential Privacy]] — privacy-preserving ML techniques
 
 > [!NOTE]
-> **Case Study:** Waze uses a data flywheel—more drivers → better real-time traffic → more drivers use it—creating a moat that is hard to replicate.
+> Data strategy is the foundation of every AI product. Build it before the model.

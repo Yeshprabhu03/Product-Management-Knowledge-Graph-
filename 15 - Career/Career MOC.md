@@ -1,19 +1,21 @@
 ---
-title: "🎓 Career & Career Development MOC"
+title: "🎓 Career & Skills MOC"
 type: moc
+branch: 15 - Career
 ---
 
-# 🎓 Career & Career Development MOC
+# 🎓 Career & Skills MOC
 
-## 🛠️ Skills & Knowledge
-- [[AI PM Skills]] - Traditional vs. AI PM skill gaps.
-- [[Technical Depth Required]] - Knowing what makes a problem ML-solvable.
+## 🛠️ Core Skills
+- [[15 - Career/AI PM Skills]] — how AI PM differs from traditional PM
+- [[15 - Career/Technical Depth Required]] — what you need to know vs what engineers know
 
-## 💼 Interview Prep
-- [[Interview Topics]] - Estimation, trade-offs, and measurement case studies.
-- [[AI PM Domain Knowledge]] - Keeping up with model developments.
-
----
+## 💼 Career Growth
+- [[15 - Career/Interview Topics]] — AI PM interview frameworks and question types
+- [[15 - Career/AI PM Domain Knowledge]] — staying current in a fast-moving field
+- [[15 - Career/PM Career Ladder]] — IC vs management tracks, progression signals
+- [[15 - Career/Interviewing for AI PM Roles]] — preparation and positioning
+- [[15 - Career/Building a Personal Brand]] — writing, speaking, community
 
 > [!NOTE]
-> **Comparison:** A traditional PM delivers feature requirements; an AI PM delivers both model and data requirements.
+> The fastest way to grow as an AI PM: ship something with a model, measure it, iterate.

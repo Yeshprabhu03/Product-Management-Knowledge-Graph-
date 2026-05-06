@@ -1,21 +1,31 @@
 ---
 title: "🛠️ Frameworks & Mental Models MOC"
 type: moc
+branch: 13 - Frameworks & Models
 ---
 
 # 🛠️ Frameworks & Mental Models MOC
 
-## 📈 Strategic Frameworks
-- [[Opportunity Solution Tree]] - Mapping outcomes to experiments.
-- [[Jobs To Be Done (JTBD)]] - Applied to AI: identifying "invisible" jobs.
-- [[Crossing the Chasm]] - Moving from novelty to reliability.
+## 📈 Strategy Frameworks
+- [[13 - Frameworks & Models/Jobs To Be Done (JTBD)]] — hire products to make progress
+- [[13 - Frameworks & Models/North Star Framework]] — NSM + input metrics tree
+- [[13 - Frameworks & Models/Opportunity Solution Tree]] — outcome → opportunity → solution → test
+- [[13 - Frameworks & Models/Crossing the Chasm]] — early adopter to early majority gap
 
-## 🚀 Execution Frameworks
-- [[Lean Startup for AI]] - Wizard of Oz testing and hypothesis validation.
-- [[Platform Thinking]] - Building AI capabilities as an infrastructure layer.
-- [[Flywheel Thinking]] - Users → Data → Better Model → Growth.
+## 🎯 Prioritization
+- [[13 - Frameworks & Models/RICE Prioritization]] — reach × impact × confidence / effort
+- [[13 - Frameworks & Models/Kano Model]] — must-haves, delighters, indifferent
+- [[13 - Frameworks & Models/Value vs Complexity]] — quick wins 2×2 matrix
 
----
+## 🚀 Execution
+- [[13 - Frameworks & Models/Amazon Working Backwards]] — PR/FAQ before a line of code
+- [[13 - Frameworks & Models/Hook Model]] — trigger, action, variable reward, investment
+- [[13 - Frameworks & Models/Lean Startup for AI]] — Wizard of Oz before ML investment
+- [[13 - Frameworks & Models/First Principles Thinking]] — reasoning from fundamentals
 
-> [!NOTE]
-> **Example:** Clipboard Health validated their scheduling feature with humans manually matching shifts before building the algorithm—confirming demand before ML investment.
+## 🔄 Growth & Scale
+- [[13 - Frameworks & Models/Platform Thinking]] — AI capability as infrastructure
+- [[13 - Frameworks & Models/Flywheel Thinking]] — users → data → model → users
+
+> [!TIP]
+> Frameworks are thinking tools, not checklists. Use them to structure a decision, not to replace judgment.

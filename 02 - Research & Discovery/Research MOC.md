@@ -1,26 +1,25 @@
 ---
-title: "🔍 User Research & Discovery MOC"
+title: "🔍 Research & Discovery MOC"
 type: moc
+branch: 02 - Research & Discovery
 ---
 
-# 🔍 User Research & Discovery MOC
+# 🔍 Research & Discovery MOC
 
-## 👥 Understanding the User
-- [[User Personas]] - Demographic, psychographic, and anti-personas.
-- [[Jobs To Be Done (JTBD)]] - Functional, emotional, and social "jobs."
-- [[Customer Segments]] - industry, behavior, and power user segmentation.
+## 👥 Understanding Users
+- [[02 - Research & Discovery/User Personas]] — who you are building for
+- [[02 - Research & Discovery/Customer Segments]] — behavioral segmentation
+- [[02 - Research & Discovery/Pain Points]] — functional, emotional, financial hierarchy
 
-## 🛠️ Discovery Techniques
-- [[User Interviews]] - Problem vs. solution interviews and "The Mom Test."
-- [[Surveys]] - PMF surveys and quantitative validation.
-- [[Usability Testing]] - Task completion rates and think-aloud protocols.
-- [[Continuous Discovery]] - Teresa Torres framework and weekly customer touchpoints.
+## 🛠️ Discovery Methods
+- [[02 - Research & Discovery/User Interviews]] — qualitative, problem-first
+- [[02 - Research & Discovery/Surveys]] — quantitative validation and PMF scoring
+- [[02 - Research & Discovery/Usability Testing]] — task completion and think-aloud
+- [[02 - Research & Discovery/Continuous Discovery]] — Teresa Torres, weekly touchpoints
 
-## ⚠️ Problem Identification
-- [[Pain Points]] - Hierarchy of functional vs. emotional vs. financial pain.
-- [[Opportunity Solution Tree]] - Mapping outcomes to solutions.
-
----
+## 🔗 Frameworks
+- [[13 - Frameworks & Models/Jobs To Be Done (JTBD)]] — motivations behind behavior
+- [[13 - Frameworks & Models/Opportunity Solution Tree]] — mapping outcomes to experiments
 
 > [!NOTE]
-> **Case Study:** Intercom discovered users didn't want a "support ticket"—they wanted to feel heard quickly, leading to their messenger-first product strategy.
+> Discovery is never done. Run at least one user touchpoint per sprint.

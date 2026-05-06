@@ -1,25 +1,24 @@
 ---
 title: "🛡️ Responsible AI MOC"
 type: moc
+branch: 08 - Responsible AI
 ---
 
 # 🛡️ Responsible AI MOC
 
-## ⚖️ Fairness & Bias
-- [[Bias & Fairness]] - Historical, representation, and measurement bias.
-- [[Fairness Metrics]] - Demographic parity and individual fairness.
-- [[Explainability & Interpretability]] - Local (LIME/SHAP) vs. Global explanations.
+## ⚖️ Fairness
+- [[08 - Responsible AI/Bias & Fairness]] — historical, representation, measurement bias
+- [[08 - Responsible AI/Fairness Metrics]] — demographic parity, equalized odds
+- [[08 - Responsible AI/Explainability & Interpretability]] — LIME, SHAP, local vs global
 
-## 🛡️ Safety & Trust
-- [[AI Safety & Guardrails]] - Content filtering and jailbreak prevention.
-- [[Transparency to Users]] - Disclosing AI interactions and citing sources.
-- [[Environmental Impact]] - Carbon cost of training and inference.
+## 🛡️ Safety
+- [[08 - Responsible AI/AI Safety & Guardrails]] — layered defense: training + inference + product
+- [[08 - Responsible AI/Transparency to Users]] — disclosure, citations, AI labels
+- [[08 - Responsible AI/Environmental Impact]] — carbon cost of training and inference
 
 ## 📜 Regulation
-- [[EU AI Act]] - Prohibited vs. High-risk AI classification.
-- [[NIST AI Risk Management Framework]] - US safety standards.
-
----
+- [[08 - Responsible AI/EU AI Act]] — prohibited, high-risk, limited, minimal risk tiers
+- [[08 - Responsible AI/NIST AI Risk Management Framework]] — govern, map, measure, manage
 
 > [!CAUTION]
-> **Example:** The COMPAS algorithm predicted higher recidivism for Black defendants at twice the rate of white defendants—bias embedded in training data.
+> Responsible AI is not a feature. It is a constraint on how every feature is built.

@@ -1,31 +1,35 @@
 ---
-tags: framework
-type: growth
+tags: [framework, growth]
+type: framework
+branch: 13 - Frameworks & Models
+related: ["Product Health Metrics", "AI UX MOC"]
 created: 2026-05-05
 ---
 
-# 🛠️ Hook Model
+# Hook Model
 
-## 📖 Definition
-Developed by Nir Eyal, the Hook Model is a four-phase process used to build habit-forming products. The goal is to connect the user's problem to a solution with enough frequency to form a habit.
+## Definition
+A four-phase process used by companies to build habit-forming products. The phases are: Trigger, Action, Variable Reward, and Investment. The goal is to create a "Hook" that keeps users coming back without expensive advertising.
 
-## 🎯 When Would I Use This?
-1. **Engagement Strategy**: When your product relies on high frequency of use (e.g., social media, SaaS dashboards, fitness apps).
-2. **Product Onboarding**: To design an initial flow that "hooks" the user into the core value loop.
-3. **Retention Analysis**: To identify where the "cycle" is breaking for churned users.
+## Why It Matters for PMs
+It provides a blueprint for increasing user engagement and retention. For AI PMs, the "Variable Reward" phase is particularly powerful, as AI can generate unpredictable, high-value content that keeps users curious and engaged.
 
-## 🏗️ How to Apply It
-1. **Trigger**: External (notifications) or Internal (boredom, fear of missing out).
-2. **Action**: The simplest behavior done in anticipation of a reward (e.g., clicking a link).
-3. **Variable Reward**: Providing what the user came for, but with enough variety to keep them curious (e.g., an unpredictable social feed).
-4. **Investment**: Asking the user for a bit of work (data, time, money) that improves the product for the next visit.
+## How to Apply It
+1. Identify the Trigger: What internal (boredom) or external (notification) event starts the loop?
+2. Simplify the Action: What is the minimum effort the user must take to get a reward?
+3. Provide Variable Reward: Ensure the user gets something different or surprising every time.
+4. Encourage Investment: Ask the user for a small contribution (data, follow, post) that improves their future experience.
 
-## ⚠️ Common Pitfalls
-- **Manipulation vs. Value**: Building hooks for products that don't actually solve a problem can lead to "regretful use" and long-term churn.
-- **Over-using External Triggers**: Spamming notifications instead of building internal triggers.
+## Real-World Example
+> **Instagram — 2010**
+> Instagram's Hook: Trigger = boredom or social anxiety (internal). Action = open app and scroll (minimum effort). Variable Reward = unpredictable mix of beautiful photos, likes, comments. Investment = posting your own photo (improves your feed + social stake). This loop drove DAU/MAU ratios that were 2x industry average within 6 months of launch.
+> *PM Lesson: Variable reward is the engine of habit. Predictable rewards create satisfaction; unpredictable rewards create compulsion.*
 
----
+## Common Pitfalls
+- Building a "Hook" for a product that doesn't provide real value.
+- Neglecting the "Investment" phase, leading to low long-term retention.
+- Creating "Dark Patterns" that exploit user psychology instead of adding value.
 
-## 🔗 Connected Concepts
-- [[05 - Metrics & Growth/AARRR Framework|AARRR Framework]]
-- [[04 - Design & UX/UX MOC|UX Design]]
+## Connected Concepts
+- [[07 - Metrics & Analytics/Product Health Metrics]] — is used to measure the effectiveness of the Hook loop
+- [[09 - AI UX Patterns/AI UX MOC]] — provides the patterns for the Action and Reward phases

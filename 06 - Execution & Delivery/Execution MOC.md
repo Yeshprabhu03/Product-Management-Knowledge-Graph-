@@ -1,23 +1,24 @@
 ---
 title: "⚙️ Execution & Delivery MOC"
 type: moc
+branch: 06 - Execution & Delivery
 ---
 
 # ⚙️ Execution & Delivery MOC
 
-## 🛠️ Documentation
-- [[AI PRD]] - Adding model requirements and fallback behavior.
-- [[User Stories & Acceptance Criteria]] - Edge cases for AI uncertainty.
+## 📄 Documentation
+- [[06 - Execution & Delivery/AI PRD]] — model requirements + fallback + data needs
+- [[06 - Execution & Delivery/User Stories & Acceptance Criteria]] — edge cases for AI uncertainty
+- [[06 - Execution & Delivery/Tech Specs for PMs]] — reading and writing technical specs
+- [[06 - Execution & Delivery/User Story Mapping]] — journey-level feature sequencing
 
-## 🔄 Methodologies
-- [[Agile for AI Teams]] - Research spikes and model training cycles.
-- [[Technical Debt in AI]] - Model, data, and annotation debt.
+## 🔄 Process
+- [[06 - Execution & Delivery/Agile for AI Teams]] — research spikes, experiment cycles
+- [[06 - Execution & Delivery/Technical Debt in AI]] — model, data, annotation, monitoring debt
 
 ## 🚀 Deployment
-- [[Release Management]] - Feature flags, shadow mode, and canary rollouts.
-- [[Fallback Logic]] - AI → Rules-based → Manual.
-
----
+- [[06 - Execution & Delivery/Release Management]] — shadow mode, canary, champion-challenger
+- [[06 - Execution & Delivery/Fallback Logic]] — AI → rules-based → manual hierarchy
 
 > [!NOTE]
-> **Example:** Google used shadow mode for Smart Reply—ran the model on millions of emails to validate quality before showing suggestions to users.
+> For AI teams, "done" means accuracy threshold met AND monitoring live.

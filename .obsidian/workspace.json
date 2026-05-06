@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2bacb8ce9274eb21",
+        "id": "d5ec350a55f83436",
         "type": "tabs",
         "children": [
           {
-            "id": "58258c05b4ddc00a",
+            "id": "bf0193d83f23d733",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "09 - AI UX Patterns/Feedback Mechanisms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Feedback Mechanisms"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "09 - AI UX Patterns/Feedback Mechanisms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Feedback Mechanisms"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "09 - AI UX Patterns/Feedback Mechanisms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Feedback Mechanisms"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "09 - AI UX Patterns/Feedback Mechanisms.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Feedback Mechanisms"
             }
           }
         ]
@@ -176,43 +183,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "70ee796dcb8d2388",
+  "active": "bf0193d83f23d733",
   "lastOpenFiles": [
-    "10 - GTM & Growth/GTM MOC.md",
+    "09 - AI UX Patterns/Copilot vs Autopilot.md",
     "09 - AI UX Patterns/AI UX MOC.md",
-    "08 - Responsible AI/Responsible AI MOC.md",
-    "05 - Prioritization & Roadmapping/Prioritization MOC.md",
-    "04 - Data Strategy/Data Strategy MOC.md",
-    "03 - AI & ML Fundamentals/AI ML MOC.md",
-    "02 - Research & Discovery/Research MOC.md",
-    "01 - Strategy & Vision/Strategy MOC.md",
-    "00 - Case Studies/Slack - Product-Led Growth.md",
-    "00 - Case Studies/Netflix - The Personalization Engine.md",
-    "00 - Case Studies/Cases MOC.md",
-    "00 - Case Studies/Airbnb - Solving the Trust Problem.md",
-    "00 - Case Studies",
-    "13 - Frameworks & Models/RICE Prioritization.md",
-    "13 - Frameworks & Models/Opportunity Solution Tree.md",
-    "13 - Frameworks & Models/North Star Framework.md",
-    "13 - Frameworks & Models/Kano Model.md",
-    "13 - Frameworks & Models/Jobs-to-be-Done (JTBD).md",
-    "13 - Frameworks & Models/Hook Model.md",
-    "13 - Frameworks & Models/Frameworks MOC.md",
+    "09 - AI UX Patterns/AI Onboarding.md",
     "13 - Frameworks & Models/Amazon Working Backwards.md",
-    "11 - Technical PM/The PM Guide to APIs.md",
-    "11 - Technical PM/Technical PM MOC.md",
-    "11 - Technical PM/Managing ML Models as Products.md",
-    "11 - Technical PM/Generative AI Product Strategy.md",
-    "07 - Metrics & Analytics/Metrics MOC.md",
-    "09 - AI UX Patterns/UX MOC.md",
+    "01 - Strategy & Vision/Competitive Landscape.md",
+    "01 - Strategy & Vision/Business Models.md",
+    "15 - Career/Career MOC.md",
+    "04 - Data Strategy/Data as a Product Asset.md",
+    "15 - Career/Interviewing for AI PM Roles.md",
+    "15 - Career/Product Leadership MOC.md",
+    "15 - Career/PM Career Ladder.md",
+    "15 - Career/Leadership vs Management.md",
+    "15 - Career/Building a Personal Brand.md",
     "15 - Career",
+    "14 - Tools & Artifacts/Writing for Stakeholders.md",
+    "14 - Tools & Artifacts/Visual Communication.md",
+    "14 - Tools & Artifacts/Tools MOC.md",
+    "14 - Tools & Artifacts/Strategic Storytelling.md",
+    "14 - Tools & Artifacts/Red Team Report.md",
+    "14 - Tools & Artifacts/Presentation Skills.md",
+    "14 - Tools & Artifacts/Model Card.md",
+    "14 - Tools & Artifacts/Decision Log.md",
+    "14 - Tools & Artifacts/Datasheet for Datasets.md",
+    "14 - Tools & Artifacts/Data Storytelling.md",
     "14 - Tools & Artifacts",
+    "15 - Career & Leadership/Product Leadership MOC.md",
+    "15 - Career & Leadership/Leadership vs Management.md",
+    "15 - Career & Leadership/Building a Personal Brand.md",
+    "15 - Career & Leadership",
+    "14 - Communication & Writing",
+    "update_related.py",
+    "Case Studies",
+    "00 - Case Studies",
     "13 - Frameworks & Models",
     "12 - Leadership & Stakeholders",
-    "11 - Technical PM",
-    "10 - GTM & Growth",
-    "09 - AI UX Patterns",
-    "08 - Responsible AI",
-    "07 - Metrics & Analytics"
+    "11 - Technical PM"
   ]
 }

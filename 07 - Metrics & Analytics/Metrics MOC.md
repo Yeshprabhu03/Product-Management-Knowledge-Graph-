@@ -1,25 +1,24 @@
 ---
 title: "📊 Metrics & Analytics MOC"
 type: moc
+branch: 07 - Metrics & Analytics
 ---
 
 # 📊 Metrics & Analytics MOC
 
-## 📈 Standard Product Metrics
-- [[Product Health Metrics]] - Acquisition, Activation, Retention (AARRR).
-- [[Aha Moment]] - Slack's "2,000 messages" threshold.
+## 📈 Product Health
+- [[07 - Metrics & Analytics/Product Health Metrics]] — AARRR framework
+- [[07 - Metrics & Analytics/Aha Moment]] — the retention-predicting behavior threshold
 
-## 🤖 AI-Specific Metrics
-- [[AI Metrics]] - Automation rate, Hallucination rate, Override rate.
-- [[User Trust Metrics]] - How often users reject or accept AI suggestions.
-- [[Cost Metrics]] - Cost per inference at scale.
+## 🤖 AI-Specific
+- [[07 - Metrics & Analytics/AI Metrics]] — automation rate, override rate, hallucination rate
+- [[07 - Metrics & Analytics/User Trust Metrics]] — acceptance rate, correction rate
+- [[07 - Metrics & Analytics/Cost Metrics]] — cost per inference, gross margin impact
 
 ## 🧪 Experimentation
-- [[Experimentation]] - A/B testing and sample size significance.
-- [[Online vs. Offline Evaluation]] - Held-out test sets vs. real user behavior.
-- [[Multi-armed Bandits]] - Adaptive traffic allocation.
-
----
+- [[07 - Metrics & Analytics/Experimentation]] — A/B testing, significance, sample size
+- [[07 - Metrics & Analytics/Online vs Offline Evaluation]] — held-out vs live traffic
+- [[07 - Metrics & Analytics/Multi-armed Bandits]] — adaptive traffic allocation
 
 > [!TIP]
-> **Goodhart's Law:** "When a measure becomes a target, it ceases to be a good measure."
+> Goodhart's Law: when a measure becomes a target, it ceases to be a good measure.
