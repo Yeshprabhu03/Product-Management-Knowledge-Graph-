@@ -1,60 +1,67 @@
 ---
-title: "🧠 Product Management Brain"
+title: "🧠 AI Product Management Knowledge Graph"
 type: index
 ---
 
-# 🧠 Product Management Brain
+# 🧠 AI Product Management Knowledge Graph
 
-Welcome to your practitioner-grade Product Management Knowledge Vault. This system is designed to be your second brain for everything from long-term product strategy to day-to-day execution.
-
----
-
-## 🗺️ Maps of Content (MOCs)
-
-### 📈 Strategy & Vision
-- [[01 - Product Strategy/Product Strategy MOC|Strategic Planning]]
-- [[01 - Product Strategy/North Star Framework|The North Star]]
-- [[01 - Product Strategy/Roadmapping|Dynamic Roadmaps]]
-
-### 🔍 Discovery & Research
-- [[02 - Discovery & Research/Discovery MOC|Continuous Discovery]]
-- [[02 - Discovery & Research/Jobs-to-be-Done (JTBD)|JTBD Framework]]
-- [[02 - Discovery & Research/Opportunity Solution Tree|OST Visualization]]
-
-### ⚙️ Execution & Delivery
-- [[03 - Execution & Delivery/Execution MOC|Product Delivery]]
-- [[03 - Execution & Delivery/PRD Template|Modular PRDs]]
-- [[03 - Execution & Delivery/Agile & Scrum|Agile Methodologies]]
-
-### 📐 Design & UX
-- [[04 - Design & UX/UX MOC|User Experience]]
-- [[04 - Design & UX/Mental Models|Mental Models for PMs]]
-
-### 📊 Metrics & Growth
-- [[05 - Metrics & Growth/Metrics MOC|Data & Analytics]]
-- [[05 - Metrics & Growth/AARRR Framework|Pirate Metrics (AARRR)]]
-- [[05 - Metrics & Growth/SQL for PMs|SQL Quickstart]]
-
-### 💻 Technical PM
-- [[06 - Technical PM/Technical PM MOC|Engineering for PMs]]
-- [[06 - Technical PM/Generative AI Product Strategy|AI/ML Strategy]]
-- [[06 - Technical PM/API Design|System Architecture]]
+Welcome to the definitive practitioner-grade knowledge base for AI Product Management. This vault is structured as an interconnected graph of strategy, research, technical fundamentals, and responsible AI practices.
 
 ---
 
-## 🛠️ Tactical Playbook
-- [[08 - Frameworks & Models/Frameworks MOC|All Strategic Frameworks]]
-- [[08 - Frameworks & Models/RICE Prioritization|RICE Scoring]]
-- [[08 - Frameworks & Models/Kano Model|Kano Analysis]]
+## 🗺️ Knowledge Domains
+
+### 1. [[01 - Strategy & Vision/Strategy MOC|Strategy & Vision]]
+Product Vision, Strategy, North Star, OKRs, Business Models, and Competitive Analysis.
+
+### 2. [[02 - Research & Discovery/Research MOC|User Research & Discovery]]
+Personas, JTBD, Continuous Discovery, and Pain Point Analysis.
+
+### 3. [[03 - AI & ML Fundamentals/AI ML MOC|AI/ML Fundamentals]]
+LLMs, RAG, Fine-tuning, Agents, Embeddings, and Model Evaluation.
+
+### 4. [[04 - Data Strategy/Data Strategy MOC|Data Strategy]]
+Data Moats, Labeling, Quality, Privacy, and Feedback Loops.
+
+### 5. [[05 - Prioritization & Roadmapping/Prioritization MOC|Prioritization & Roadmapping]]
+RICE, Kano, Outcome-based Roadmaps, and AI-specific Trade-offs.
+
+### 6. [[06 - Execution & Delivery/Execution MOC|Execution & Delivery]]
+AI PRDs, Agile for ML, Tech Debt, and Release Management.
+
+### 7. [[07 - Metrics & Analytics/Metrics MOC|Metrics & Analytics]]
+Product Health, AI Metrics (Hallucination Rate, Trust), and Experimentation.
+
+### 8. [[08 - Responsible AI/Responsible AI MOC|Responsible AI]]
+Bias, Fairness, Safety, Transparency, and Regulation (EU AI Act).
+
+### 9. [[09 - AI UX Patterns/AI UX MOC|AI UX Patterns]]
+Copilot vs. Autopilot, Reasoning Disclosure, and Human-in-the-loop UX.
+
+### 10. [[10 - GTM & Growth/GTM MOC|Go-To-Market & Growth]]
+Positioning AI, Pricing Models, and Early Adopter Strategies.
+
+### 11. [[11 - Technical PM/Technical PM MOC|Technical PM]]
+Build vs. Buy, API Design, and Vendor Evaluation.
+
+### 12. [[12 - Leadership & Stakeholders/Leadership MOC|Leadership & Stakeholders]]
+Managing Up, Working with ML Engineers/Data Scientists, and Legal.
+
+### 13. [[13 - Frameworks & Models/Frameworks MOC|Frameworks & Mental Models]]
+OST, Lean Startup for AI, and Crossing the Chasm.
+
+### 14. [[14 - Tools & Artifacts/Tools MOC|Tools & Artifacts]]
+PM Tool Stack, Model Cards, and Decision Logs.
+
+### 15. [[15 - Career/Career MOC|Career Development]]
+AI PM Skills, Interview Topics, and Domain Knowledge.
 
 ---
 
 ## 📖 Iconic Case Studies
-- [[09 - Case Studies/Cases MOC|Product Deep-Dives]]
-- [[09 - Case Studies/Netflix - The Personalization Engine|Netflix]]
-- [[09 - Case Studies/Slack - Product-Led Growth|Slack]]
+- [[00 - Case Studies/Cases MOC|Case Study Library]]
 
 ---
 
 > [!TIP]
-> Use **Cmd + O** to quickly jump between notes or **Cmd + G** to visualize your knowledge graph.
+> This vault is designed to be explored via **Graph View**. Open it to see how "Model Hallucination" (Responsible AI) impacts "User Trust" (Metrics) and "UX Patterns" (AI UX).
