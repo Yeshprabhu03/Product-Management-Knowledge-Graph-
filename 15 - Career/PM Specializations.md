@@ -45,11 +45,11 @@ Product Management has evolved into distinct specializations, each requiring a d
 
 | Archetype | Primary Focus | Defining Hard Skill | Example Companies |
 |-----------|---------------|---------------------|-------------------|
-| Core / General PM | Feature delivery, user value | Prioritization, PRD writing | Most mid-stage startups |
-| Technical PM | Developer products, APIs, infra | System design, API patterns | Stripe, Twilio, AWS |
-| Growth PM | Acquisition, activation, retention | SQL, A/B testing, funnel analysis | Meta, HubSpot, Duolingo |
-| Data PM | Data products, analytics tools | Data modeling, BI tooling | Snowflake, Tableau, dbt |
-| AI / ML PM | Model-backed features, AI systems | ML fundamentals, model evaluation | Anthropic, Cohere, Glean |
-| Platform PM | Internal platforms, shared services | Infrastructure thinking, developer UX | Uber, Airbnb, Netflix |
-| Consumer PM | Mobile/web products for end users | User research, behavioral psychology | Spotify, TikTok, Pinterest |
-| Enterprise PM | B2B SaaS, complex buyer journeys | Discovery in multi-stakeholder orgs | Salesforce, Workday, SAP |
+| [[15 - Career/Core PM|Core / General PM]] | Feature delivery, user value | Prioritization, PRD writing | Most mid-stage startups |
+| [[15 - Career/Technical PM|Technical PM]] | Developer products, APIs, infra | System design, API patterns | Stripe, Twilio, AWS |
+| [[15 - Career/Growth PM|Growth PM]] | Acquisition, activation, retention | SQL, A/B testing, funnel analysis | Meta, HubSpot, Duolingo |
+| [[15 - Career/Data PM|Data PM]] | Data products, analytics tools | Data modeling, BI tooling | Snowflake, Tableau, dbt |
+| [[15 - Career/AI ML PM|AI / ML PM]] | Model-backed features, AI systems | ML fundamentals, model evaluation | Anthropic, Cohere, Glean |
+| [[15 - Career/Platform PM|Platform PM]] | Internal platforms, shared services | Infrastructure thinking, developer UX | Uber, Airbnb, Netflix |
+| [[15 - Career/Consumer PM|Consumer PM]] | Mobile/web products for end users | User research, behavioral psychology | Spotify, TikTok, Pinterest |
+| [[15 - Career/Enterprise PM|Enterprise PM]] | B2B SaaS, complex buyer journeys | Discovery in multi-stakeholder orgs | Salesforce, Workday, SAP |
