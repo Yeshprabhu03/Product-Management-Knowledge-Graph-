@@ -1,0 +1,14 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node & Build
+node_modules/
+public/
+.quartz-cache/
