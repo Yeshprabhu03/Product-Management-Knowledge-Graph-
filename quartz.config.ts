@@ -14,7 +14,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "Yeshprabhu03.github.io/PM-Brain-",
+    baseUrl: "Yeshprabhu03.github.io/Product-Management-Knowledge-Graph-",
     ignorePatterns: [
       "private",
       "Templates",

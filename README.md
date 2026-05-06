@@ -1,10 +1,10 @@
 # 🧠 Product Management Knowledge Graph
 
-[![Live Knowledge Graph](https://img.shields.io/badge/Live-Knowledge_Graph-teal?style=for-the-badge&logo=obsidian)](https://Yeshprabhu03.github.io/PM-Brain-/)
+[![Live Knowledge Graph](https://img.shields.io/badge/Live-Knowledge_Graph-teal?style=for-the-badge&logo=obsidian)](https://Yeshprabhu03.github.io/Product-Management-Knowledge-Graph-/)
 
 A practitioner-grade, deeply interconnected digital garden for modern Product Management, with a focus on AI/ML product lifecycles.
 
-## 🔗 [Click Here to Explore the Knowledge Graph](https://Yeshprabhu03.github.io/PM-Brain-/)
+## 🔗 [Click Here to Explore the Knowledge Graph](https://Yeshprabhu03.github.io/Product-Management-Knowledge-Graph-/)
 
 ---
 
