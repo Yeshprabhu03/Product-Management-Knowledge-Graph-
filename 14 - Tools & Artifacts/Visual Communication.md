@@ -1,7 +1,7 @@
 ---
 tags: [communication, design]
 type: concept
-branch: 14 - Communication & Writing
+branch: 14 - Tools & Artifacts
 related: ["Data Storytelling", "Product Roadmap", "Presentation Skills"]
 created: 2026-05-05
 ---
@@ -35,6 +35,6 @@ For a Product Manager, a picture is often worth a thousand lines of a PRD. It ma
 - **Visuals without a "Legend"**: Creating a complex flowchart or architecture diagram with 10 different colors but no key to explain what they mean.
 
 ## Connected Concepts
-- [[14 - Communication & Writing/Data Storytelling]] — the intersection of visuals and numbers.
+- [[14 - Tools & Artifacts/Data Storytelling]] — the intersection of visuals and numbers.
 - [[05 - Prioritization & Roadmapping/Product Roadmap]] — the most important visual artifact a PM creates.
-- [[14 - Communication & Writing/Presentation Skills]] — how you deliver and explain your visuals to an audience.
+- [[14 - Tools & Artifacts/Presentation Skills]] — how you deliver and explain your visuals to an audience.

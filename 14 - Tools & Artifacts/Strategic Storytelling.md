@@ -1,7 +1,7 @@
 ---
 tags: [communication, strategy]
 type: concept
-branch: 14 - Communication & Writing
+branch: 14 - Tools & Artifacts
 related: ["Product Vision", "Stakeholder Communication", "Presentation Skills"]
 created: 2026-05-05
 ---
@@ -37,4 +37,4 @@ For a Product Manager, storytelling is a primary tool for **Influence without Au
 ## Connected Concepts
 - [[01 - Strategy & Vision/Product Vision]] — the ultimate "Story" of the product's future.
 - [[12 - Leadership & Stakeholders/Stakeholder Communication]] — the tactical distribution of your strategic stories.
-- [[14 - Communication & Writing/Data Storytelling]] — the specific technique of using numbers to drive a narrative.
+- [[14 - Tools & Artifacts/Data Storytelling]] — the specific technique of using numbers to drive a narrative.

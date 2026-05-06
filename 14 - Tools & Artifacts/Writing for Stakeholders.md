@@ -1,7 +1,7 @@
 ---
 tags: [communication, soft-skills]
 type: concept
-branch: 14 - Communication & Writing
+branch: 14 - Tools & Artifacts
 related: ["Technical Documentation", "Stakeholder Communication", "Managing Up"]
 created: 2026-05-05
 ---
@@ -37,4 +37,4 @@ For a Product Manager, writing is your "Primary Scalability Tool." It matters be
 ## Connected Concepts
 - [[11 - Technical PM/Technical Documentation]] — the specialized version of writing for engineering stakeholders.
 - [[12 - Leadership & Stakeholders/Stakeholder Communication]] — the strategy for how these written artifacts are distributed.
-- [[14 - Communication & Writing/Strategic Storytelling]] — using narrative techniques within your written documents.
+- [[14 - Tools & Artifacts/Strategic Storytelling]] — using narrative techniques within your written documents.

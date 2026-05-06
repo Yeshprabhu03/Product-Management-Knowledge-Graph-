@@ -1,7 +1,7 @@
 ---
 tags: [communication, soft-skills]
 type: concept
-branch: 14 - Communication & Writing
+branch: 14 - Tools & Artifacts
 related: ["Strategic Storytelling", "Stakeholder Communication", "Visual Communication"]
 created: 2026-05-05
 ---
@@ -35,6 +35,6 @@ For a Product Manager, a presentation is often the "Last Mile" of your hard work
 - **Lack of a "Call to Action"**: Finishing a great presentation with "Any questions?" instead of "I need your approval on X by Friday so we can start building."
 
 ## Connected Concepts
-- [[14 - Communication & Writing/Strategic Storytelling]] — the narrative framework behind your presentation.
-- [[14 - Communication & Writing/Visual Communication]] — the design of the slides that support your presentation.
+- [[14 - Tools & Artifacts/Strategic Storytelling]] — the narrative framework behind your presentation.
+- [[14 - Tools & Artifacts/Visual Communication]] — the design of the slides that support your presentation.
 - [[12 - Leadership & Stakeholders/Stakeholder Communication]] — the broader strategy for who you present to and when.

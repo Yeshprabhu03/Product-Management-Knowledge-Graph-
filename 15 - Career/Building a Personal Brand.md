@@ -36,5 +36,5 @@ For a Product Manager, a personal brand is a "Career Insurance Policy." It matte
 
 ## Connected Concepts
 - [[15 - Career & Leadership/PM Career Ladder]] — how your brand accelerates your move up the ladder.
-- [[14 - Communication & Writing/Strategic Storytelling]] — the narrative skills needed to build your brand story.
-- [[15 - Career & Leadership/Product Leadership MOC]] — the central hub for career-building frameworks.
+- [[14 - Tools & Artifacts/Strategic Storytelling]] — the narrative skills needed to build your brand story.
+- [[15 - Career/Product Leadership MOC]] — the central hub for career-building frameworks.

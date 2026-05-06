@@ -1,7 +1,7 @@
 ---
 tags: [communication, data]
 type: concept
-branch: 14 - Communication & Writing
+branch: 14 - Tools & Artifacts
 related: ["Product Health Metrics", "Working with Data Scientists", "Visual Communication"]
 created: 2026-05-05
 ---
@@ -35,6 +35,6 @@ For a Product Manager, data is only useful if it leads to action. It matters bec
 - **Confusing Correlation with Causation**: Telling a story that "Action X caused Success Y" when the data only shows they happened at the same time.
 
 ## Connected Concepts
-- [[14 - Communication & Writing/Visual Communication]] — the design side of data storytelling.
+- [[14 - Tools & Artifacts/Visual Communication]] — the design side of data storytelling.
 - [[07 - Metrics & Analytics/Product Health Metrics]] — the primary source of data for your stories.
 - [[12 - Leadership & Stakeholders/Working with Data Scientists]] — the partnership that provides the raw material for your data stories.

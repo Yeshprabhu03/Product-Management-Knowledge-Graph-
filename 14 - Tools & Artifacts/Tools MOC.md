@@ -12,6 +12,13 @@ branch: 14 - Tools & Artifacts
 - [[14 - Tools & Artifacts/Red Team Report]] — adversarial testing results before launch
 - [[14 - Tools & Artifacts/Decision Log]] — capturing the why behind product decisions
 
+## Communication Artifacts
+- [[14 - Tools & Artifacts/Data Storytelling]]
+- [[14 - Tools & Artifacts/Presentation Skills]]
+- [[14 - Tools & Artifacts/Strategic Storytelling]]
+- [[14 - Tools & Artifacts/Visual Communication]]
+- [[14 - Tools & Artifacts/Writing for Stakeholders]]
+
 ## PM Tool Stack
 | Category | Tools |
 |---|---|

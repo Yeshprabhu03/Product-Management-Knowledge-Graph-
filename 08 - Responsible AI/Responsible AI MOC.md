@@ -9,7 +9,7 @@ branch: 08 - Responsible AI
 ## Fairness
 - [[08 - Responsible AI/Bias & Fairness]] — historical, representation, measurement bias
 - [[08 - Responsible AI/Fairness Metrics]] — demographic parity, equalized odds
-- [[08 - Responsible AI/Explainability & Interpretability]] — LIME, SHAP, local vs global
+- [[08 - Responsible AI/Explainability (XAI)]] — LIME, SHAP, local vs global
 
 ## Safety
 - [[08 - Responsible AI/AI Safety & Guardrails]] — layered defense: training + inference + product
