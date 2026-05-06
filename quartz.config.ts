@@ -6,8 +6,8 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🧠 PM Second Brain",
-    pageTitleSuffix: " | Product Management Knowledge Base",
+    pageTitle: "PM Knowledge Graph",
+    pageTitleSuffix: " | Product Management",
     enableSPA: true,
     enablePopovers: true,
     analytics: {

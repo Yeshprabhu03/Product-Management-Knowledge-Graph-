@@ -1,21 +1,21 @@
 ---
-title: "📈 Strategy & Vision MOC"
+title: " Strategy & Vision MOC"
 type: moc
 branch: 01 - Strategy & Vision
 ---
 
-# 📈 Strategy & Vision MOC
+# Strategy & Vision MOC
 
-## 🎯 Foundation
+## Foundation
 - [[01 - Strategy & Vision/Product Vision]] — long-term aspirational direction
 - [[01 - Strategy & Vision/Product Strategy]] — the plan to achieve the vision
 - [[01 - Strategy & Vision/North Star Metric]] — single metric capturing core value
 
-## 📊 Alignment
+## Alignment
 - [[01 - Strategy & Vision/OKRs]] — objectives and key results
 - [[01 - Strategy & Vision/Business Models]] — revenue streams and unit economics
 
-## 🏹 Market Intelligence
+## Market Intelligence
 - [[01 - Strategy & Vision/Competitive Landscape]] — moats and Porter's Five Forces
 - [[01 - Strategy & Vision/Market Sizing]] — TAM / SAM / SOM
 - [[01 - Strategy & Vision/GTM for AI Products]] — outcome framing and trust-building

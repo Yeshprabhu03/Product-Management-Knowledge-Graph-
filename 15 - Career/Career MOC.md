@@ -1,16 +1,16 @@
 ---
-title: "🎓 Career & Skills MOC"
+title: " Career & Skills MOC"
 type: moc
 branch: 15 - Career
 ---
 
-# 🎓 Career & Skills MOC
+# Career & Skills MOC
 
-## 🛠️ Core Skills
+## Core Skills
 - [[15 - Career/AI PM Skills]] — how AI PM differs from traditional PM
 - [[15 - Career/Technical Depth Required]] — what you need to know vs what engineers know
 
-## 💼 Career Growth
+## Career Growth
 - [[15 - Career/Interview Topics]] — AI PM interview frameworks and question types
 - [[15 - Career/AI PM Domain Knowledge]] — staying current in a fast-moving field
 - [[15 - Career/PM Career Ladder]] — IC vs management tracks, progression signals

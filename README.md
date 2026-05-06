@@ -1,4 +1,4 @@
-# 🧠 Product Management Knowledge Graph
+# Product Management Knowledge Graph
 
 [![Live Knowledge Graph](https://img.shields.io/badge/Live-Knowledge_Graph-teal?style=for-the-badge&logo=obsidian)](https://Yeshprabhu03.github.io/Product-Management-Knowledge-Graph-/)
 [![Nodes](https://img.shields.io/badge/Nodes-145-blue?style=for-the-badge)](https://Yeshprabhu03.github.io/Product-Management-Knowledge-Graph-/)
@@ -6,11 +6,11 @@
 
 A practitioner-grade, deeply interconnected digital garden for modern Product Management — covering core PM disciplines and AI/ML product lifecycles in a single unified graph.
 
-## 🔗 [Click Here to Explore the Knowledge Graph](https://Yeshprabhu03.github.io/Product-Management-Knowledge-Graph-/)
+## [Click Here to Explore the Knowledge Graph](https://Yeshprabhu03.github.io/Product-Management-Knowledge-Graph-/)
 
 ---
 
-## ✨ What Makes This Different
+## What Makes This Different
 
 - **145 interconnected nodes** — every concept, framework, metric, and pattern is its own file
 - **Real-world examples embedded** — every node contains a real company case (Netflix, Slack, Figma, OpenAI, Stripe, Airbnb, GitHub, etc.) with a specific situation, decision, and measurable outcome. No separate case studies dump.
@@ -20,11 +20,11 @@ A practitioner-grade, deeply interconnected digital garden for modern Product Ma
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 The vault is structured across 15 core domains, each color-coded in Graph View:
 
-| # | Branch | Key Topics |
+| #| Branch | Key Topics |
 |---|---|---|
 | 01 | **Strategy & Vision** | Vision, Strategy, North Star, OKRs, Business Models, Competitive Landscape |
 | 02 | **Research & Discovery** | Personas, JTBD, Continuous Discovery, User Interviews, Pain Points |
@@ -44,20 +44,20 @@ The vault is structured across 15 core domains, each color-coded in Graph View:
 
 ---
 
-## 📦 Every Node Contains
+## Every Node Contains
 
 ```
-📖 Definition        — precise, jargon-free explanation
-🎯 Why It Matters    — specific to PM decision-making
-🏗️ How to Apply It  — step-by-step breakdown
-📦 Real-World Example — real company, specific situation, measurable result
-⚠️ Common Pitfalls  — what goes wrong and why
-🔗 Connected Concepts — cross-links to related nodes in other branches
+ Definition        — precise, jargon-free explanation
+ Why It Matters    — specific to PM decision-making
+ How to Apply It  — step-by-step breakdown
+ Real-World Example — real company, specific situation, measurable result
+ Common Pitfalls  — what goes wrong and why
+ Connected Concepts — cross-links to related nodes in other branches
 ```
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - **Obsidian** — graph-based knowledge management with color-coded Graph View
 - **Quartz** — hosts the vault as a lightning-fast public web experience
@@ -65,7 +65,7 @@ The vault is structured across 15 core domains, each color-coded in Graph View:
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 **Online:** [Explore the live graph](https://Yeshprabhu03.github.io/Product-Management-Knowledge-Graph-/) — use the graph view or search to navigate
 

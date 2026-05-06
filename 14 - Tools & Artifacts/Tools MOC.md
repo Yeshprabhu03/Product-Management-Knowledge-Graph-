@@ -1,18 +1,18 @@
 ---
-title: "🛠️ Tools & Artifacts MOC"
+title: " Tools & Artifacts MOC"
 type: moc
 branch: 14 - Tools & Artifacts
 ---
 
-# 🛠️ Tools & Artifacts MOC
+# Tools & Artifacts MOC
 
-## 📄 AI-Specific Artifacts
+## AI-Specific Artifacts
 - [[14 - Tools & Artifacts/Model Card]] — model purpose, metrics, limitations, intended use
 - [[14 - Tools & Artifacts/Datasheet for Datasets]] — data source, bias, collection method
 - [[14 - Tools & Artifacts/Red Team Report]] — adversarial testing results before launch
 - [[14 - Tools & Artifacts/Decision Log]] — capturing the why behind product decisions
 
-## 🧰 PM Tool Stack
+## PM Tool Stack
 | Category | Tools |
 |---|---|
 | Roadmapping | Productboard, Linear, Jira |
