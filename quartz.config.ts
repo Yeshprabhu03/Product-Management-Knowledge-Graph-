@@ -20,6 +20,12 @@ const config: QuartzConfig = {
       "Templates",
       ".obsidian",
       "_Assets",
+      ".github",
+      "quartz",
+      "node_modules",
+      "public",
+      "README.md",
+      "PUBLISHING.md",
     ],
     defaultDateType: "modified",
     theme: {
